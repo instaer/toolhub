@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Your Site Title
-description: Your Description
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: My Tools Collection
+description: Useful tools and resources
