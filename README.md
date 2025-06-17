@@ -15,6 +15,7 @@
 - [WebRTC Control](https://chromewebstore.google.com/detail/webrtc-control/fjkmabmdepjfammlpliljpnbhleegehm) - Have control over WebRTC
 
 ## 🎮 Games & Entertainment
+- [NYT Connections](https://www.nytimes.com/games/connections) - New York Times Connections
 - [NYT Connections Hint](https://nytgamehint.com/connections) - Hints for NYT Connections game
 
 ## 🛠️ Utilities
