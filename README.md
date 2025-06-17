@@ -20,4 +20,4 @@
 ## 🛠️ Utilities
 - [JSON Formatter](https://jsonformatter.org)
 - [RegEx Tester](https://regex101.com)
-- [Carbon](https://carbon.now.sh/) - Share beautiful images of your source code
+- [Carbon](https://carbon.now.sh/)
